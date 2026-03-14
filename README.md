@@ -1,17 +1,46 @@
-## Hi there 👋 
+# 📚 Library Management System
 
----------------------- LIBRARY MANAGEMENT SYSTEM ----------------------
+A simple **Library Management System** built to manage books and library records efficiently.  
+This project helps librarians or administrators keep track of books, students, and borrowing activities.
 
-🔧 Features :
+---
 
-📖 Display all available books
-📥 Issue a book
-📤 Return a book
-➕ Add new books (Librarian only)
-➖ Remove books (Librarian only)
-👨‍🏫 Librarian Functionality
-🔐 Password-protected librarian access
-💾 Stores data using JSON
+## 📖 Overview
+The **Library Management System** allows users to manage a library digitally.  
+It provides functionality to store book information, manage records, and simplify library operations.
 
-Use Project1.py file to run program
+This project was created as a **learning project** to practice programming concepts and system design.
 
+---
+
+## 🚀 Features
+- 📚 Add new books to the library  
+- ✏️ Update book information  
+- ❌ Delete books from records  
+- 🔍 View or search available books  
+- 👤 Manage library users / students  
+- 📖 Issue books to students  
+- 🔄 Return books and update availability  
+
+---
+
+## 🛠️ Technologies Used
+🛠️ Technologies Used
+
+Programming Language: Python (if your code is .py)
+
+Data Storage: JSON files (for storing books and student data)
+
+Frontend (if any): Terminal / Command-line interface (CLI)
+
+Libraries / Modules (Python):
+
+json – to handle data storage and retrieval
+
+os – for file and system operations
+
+datetime – for managing issue/return dates
+
+---
+
+## 📂 Project Structure
