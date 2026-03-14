@@ -6,7 +6,8 @@ This project helps librarians or administrators keep track of books, students, a
 ---
 
 ## 📖 Overview
-The **Library Management System** allows users to manage a library digitally.  
+
+The Library Management System allows users to manage a library digitally.  
 It provides functionality to store book information, manage records, and simplify library operations.
 
 This project was created as a **learning project** to practice programming concepts and system design.
@@ -14,6 +15,7 @@ This project was created as a **learning project** to practice programming conce
 ---
 
 ## 🚀 Features
+
 - 📚 Add new books to the library  
 - ✏️ Update book information  
 - ❌ Delete books from records  
@@ -25,13 +27,11 @@ This project was created as a **learning project** to practice programming conce
 ---
 
 ## 🛠️ Technologies Used
-🛠️ Technologies Used
-🐍 Programming Language: Python (if your code is .py)
-💾 Data Storage: JSON files (for storing books and student data)
-🖥️ Frontend (if any): Terminal / Command-line interface (CLI)
-📚 Libraries / Modules (Python):
-json – to handle data storage and retrieval
-os – for file and system operations
-datetime – for managing issue/return dates
 
-
+- 🐍 **Programming Language:** Python (if your code is `.py`)  
+- 💾 **Data Storage:** JSON files (for storing books and student data)  
+- 🖥️ **Frontend (if any):** Terminal / Command-line interface (CLI)  
+- 📚 **Libraries / Modules (Python):**  
+  - `json` – to handle data storage and retrieval  
+  - `os` – for file and system operations  
+  - `datetime` – for managing issue/return dates  
