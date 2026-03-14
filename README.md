@@ -26,21 +26,12 @@ This project was created as a **learning project** to practice programming conce
 
 ## 🛠️ Technologies Used
 🛠️ Technologies Used
-
-Programming Language: Python (if your code is .py)
-
-Data Storage: JSON files (for storing books and student data)
-
-Frontend (if any): Terminal / Command-line interface (CLI)
-
-Libraries / Modules (Python):
-
+🐍 Programming Language: Python (if your code is .py)
+💾 Data Storage: JSON files (for storing books and student data)
+🖥️ Frontend (if any): Terminal / Command-line interface (CLI)
+📚 Libraries / Modules (Python):
 json – to handle data storage and retrieval
-
 os – for file and system operations
-
 datetime – for managing issue/return dates
 
----
 
-## 📂 Project Structure
